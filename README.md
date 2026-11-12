@@ -18,6 +18,10 @@ Praticar conceitos de desenvolvimento, aprimorar a lógica e evoluir minhas habi
 
 * Git e GitHub
 
+* Lovable
+
+* Copilot
+
 ## 📂 Estrutura
 
 Os projetos estão organizados em pastas, onde cada uma representa um projeto diferente, facilitando a navegação e visualização da evolução.
